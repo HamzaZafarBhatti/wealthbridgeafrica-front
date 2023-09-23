@@ -1,76 +1,72 @@
 <!-- ===============>> Header section start here <<================= -->
-<header class="header-section header-section--style2">
+<header class="header-section @if (Route::is('index')) header-section--style3 @else bg-color-3 @endif">
     <div class="header-bottom">
         <div class="container">
             <div class="header-wrapper">
                 <div class="logo">
                     <a href="{{ route('index') }}">
-                        <img class="dark" src="{{ asset('assets/images/logo/logo.png') }}" alt="logo">
+                        <img src="{{ asset('assets/images/logo/logo-dark.png') }}" alt="logo">
                     </a>
                 </div>
+                @if (Route::is('index'))
+                    <div class="header-content d-flex align-items-center">
+                @endif
                 <div class="menu-area">
-                    <ul class="menu menu--style1">
+                    <ul class="menu @if (Route::is('index')) menu--style2 @else menu--style1 @endif">
                         <li>
                             <a href="{{ route('index') }}">Home</a>
                         </li>
                         <li>
-                            <a href="#0">Services</a>
-                            <ul class="submenu">
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="service-details.html">Services Details</a></li>
-                            </ul>
-                        </li>
-                        <li>
                             <a href="#0">About</a>
                             <ul class="submenu">
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="price.html">Price</a></li>
-                                <li><a href="team.html">Team</a></li>
-                                <li><a href="team-2.html">Team 2</a></li>
-                                <li><a href="team-details.html">Team Details</a></li>
+                                <li><a href="{{ route('aboutus') }}">About Us</a></li>
+                                <li><a href="{{ route('howitworks') }}">How it Works</a></li>
+                                <li><a href="{{ route('investment') }}">Arbitrage Investment</a></li>
+                                <li><a href="{{ route('certification') }}">Certification</a></li>
+                                <li><a href="{{ route('paymentproofs') }}">Payment Proofs</a></li>
                             </ul>
                         </li>
-
                         <li>
                             <a href="#0">Pages</a>
                             <ul class="submenu">
-                                <li><a href="blogs.html">Blogs</a></li>
-                                <li><a href="blog-sidebar.html">Blog - Side Bar</a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
-                                <li><a href="signup.html">Sign Up</a></li>
-                                <li><a href="signup-2.html">Sign Up 2</a></li>
-                                <li><a href="signin.html">Sign In</a></li>
-                                <li><a href="signin-2.html">Sign In 2</a></li>
-                                <li><a href="forgot-pass.html">Reset Password</a></li>
-                                <li><a href="forgot-pass-2.html">Reset Password 2</a></li>
-                                <li><a href="404.html">404 Error</a></li>
+                                <li><a href="{{ route('terms') }}">Terms and Condition</a></li>
+                                <li><a href="{{ route('privacy') }}">Privacy Policy</a></li>
+                                <li><a href="{{ route('cookies') }}">Cookies Policy</a></li>
                             </ul>
 
                         </li>
                         <li>
-                            <a href="contact.html">Contact Us</a>
+                            <a href="{{ route('contactus') }}">Contact Us</a>
                         </li>
                     </ul>
-
                 </div>
                 <div class="header-action">
                     <div class="menu-area">
                         <div class="header-btn">
-                            <a href="signup.html" class="trk-btn trk-btn--border trk-btn--primary">
-                                <span>Join Now</span>
+                            <a href="{{ route('signup') }}" class="trk-btn trk-btn--border trk-btn--primary">
+                                <span>Register</span>
+                            </a>
+                        </div>
+                        <div class="header-btn">
+                            <a href="{{ route('login') }}" class="trk-btn trk-btn--border trk-btn--primary ms-3">
+                                <span>Login</span>
                             </a>
                         </div>
 
                         <!-- toggle icons -->
-                        <div class="header-bar d-lg-none header-bar--style1">
+                        <div
+                            class="header-bar d-lg-none @if (Route::is('index')) header-bar--style2 @else home1 @endif">
                             <span></span>
                             <span></span>
                             <span></span>
                         </div>
                     </div>
                 </div>
+                @if (Route::is('index'))
             </div>
+            @endif
         </div>
+    </div>
     </div>
 </header>
 <!-- ===============>> Header section end here <<================= -->

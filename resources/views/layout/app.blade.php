@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="light">
+<html lang="en" data-bs-theme="dark">
 
 <head>
     <title>@yield('title') | {{ $set->title }}</title>
@@ -17,7 +17,7 @@
     <meta property="og:site_name" content="{{ $set->site_name }}">
     <meta property="og:description" content="{{ $set->site_desc }}">
 
-    <link rel="shortcut icon" href="" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}" type="image/x-icon">
 
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/aos.css') }}">
@@ -49,18 +49,7 @@
         @include('layout.banner')
     @endif
 
-    @include('layout.components.partner')
-    @include('layout.components.about')
-    @include('layout.components.feature')
-    @include('layout.components.service')
-    @include('layout.components.roadmap')
-    @include('layout.components.pricing')
-    @include('layout.components.team')
-    @include('layout.components.blog')
-    @include('layout.components.testimonial')
-    @include('layout.components.faq')
-    @include('layout.components.cta')
-
+    @yield('content')
     
     @include('layout.footer')
 

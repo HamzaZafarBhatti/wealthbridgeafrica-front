@@ -1,121 +1,63 @@
 <!-- ===============>> Blog section start here <<================= -->
-<section class="blog padding-top padding-bottom">
+<section class="blog padding-top padding-bottom of-hidden">
     <div class="container">
-        <div class="section-header d-md-flex align-items-center justify-content-between">
-            <div class="section-header__content">
-                <h2 class="mb-15"><span>articles</span> for pro traders</h2>
-                <p class="mb-0">Hey there pro traders, check out these articles with tips to take your trading
-                    game to the
-                    next level!</p>
+        <div class="section-header d-flex align-items-center justify-content-between">
+            <div class="section-header__content section-header__content--style3">
+                <h2 class="mb-0">Popular Trading <span class="style2">Articles </span></h2>
             </div>
             <div class="section-header__action">
-                <div class="swiper-nav swiper-nav--style1">
-                    <button class="swiper-nav__btn blog__slider-prev"><i class="fa-solid fa-angle-left"></i></button>
-                    <button class="swiper-nav__btn blog__slider-next active"><i
-                            class="fa-solid fa-angle-right"></i></button>
+                <div>
+                    <a href="blogs.html" class="trk-btn trk-btn--border trk-btn--secondary">View All</a>
                 </div>
             </div>
         </div>
-        <div class="blog__wrapper" data-aos="fade-up" data-aos-duration="1000">
-            <div class="blog__slider swiper">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="blog__item blog__item--style2">
-                            <div class="blog__item-inner">
-                                <div class="blog__thumb">
-                                    <img src="{{ asset('assets/images/blog/1.png') }}" alt="blog Images">
-                                </div>
+        <div class="blog__wrapper">
+            <div class="row g-4">
+                <div class="col-md-6">
+                    <div class="blog__item blog__item--style2" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="blog__item-inner blog__item-inner--style2 pt-30 px-30 pb-40">
+                            <div class="blog__thumb">
+                                <img src="{{ asset('assets/images/blog/4.png') }}" alt="blog Images">
+                            </div>
 
-                                <div class="blog__content">
-                                    <div class="blog__meta">
-                                        <span class="blog__meta-tag blog__meta-tag--style1">Forex trading</span>
-                                    </div>
-                                    <h5 class="10"> <a href="blog-details.html">Swing Trading Definition</a>
-                                    </h5>
+                            <div class="blog__content mt-30">
+                                <h5 class="style2"> <a href="blog-details.html">Top 10 Tips for Successful Trading.</a>
+                                </h5>
 
-                                    <p class="mb-15">Our platform is not only about trading—it's also a hub for
-                                        knowledge and learning.
-                                        We provide resources.</p>
+                                <p class="mb-15">Follow these 10 trading tips: research, diversify, stay disciplined,
+                                    risk smartly,
+                                    stay informed, trade small, stay patient, track performance, ignore emotions.
+                                </p>
 
-                                    <div class="blog__writer">
-                                        <div class="blog__writer-thumb">
-                                            <img src="{{ asset('assets/images/blog/author/1.png') }}" alt="writer">
-                                        </div>
-                                        <div class="blog__writer-designation">
-                                            <h6 class="mb-0">Vasha Gueye</h6>
-                                            <span>20/6/2023</span>
-                                        </div>
-                                    </div>
-                                </div>
+                                <a href="blog-details.html" class="text-btn text-btn--style2">Read more <i
+                                        class="fa-solid fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="blog__item blog__item--style2">
-                            <div class="blog__item-inner">
-                                <div class="blog__thumb">
-                                    <img src="{{ asset('assets/images/blog/2.png') }}" alt="blog Images">
-                                </div>
-
-                                <div class="blog__content">
-                                    <div class="blog__meta">
-                                        <span class="blog__meta-tag blog__meta-tag--style1">Trading market</span>
-                                    </div>
-                                    <h5 class="10"> <a href="blog-details.html">hedge funds work?</a> </h5>
-
-                                    <p class="mb-15">To cater to your individual trading preferences, we offer a
-                                        variety of order types,
-                                        including market.</p>
-
-                                    <div class="blog__writer">
-                                        <div class="blog__writer-thumb">
-                                            <img src="{{ asset('assets/images/blog/author/2.png') }}" alt="writer">
-                                        </div>
-                                        <div class="blog__writer-designation">
-                                            <h6 class="mb-0">Abhivibha Kanmani</h6>
-                                            <span>30/5/2023</span>
-                                        </div>
-                                    </div>
-                                </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="blog__item blog__item--style2" data-aos="fade-left" data-aos-duration="1000">
+                        <div class="blog__item-inner blog__item-inner--style2 pt-30 px-30 pb-40">
+                            <div class="blog__thumb">
+                                <img src="{{ asset('assets/images/blog/5.png') }}" alt="blog Images">
                             </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="blog__item blog__item--style2">
-                            <div class="blog__item-inner">
-                                <div class="blog__thumb">
-                                    <img src="{{ asset('assets/images/blog/3.png') }}" alt="blog Images">
-                                </div>
 
-                                <div class="blog__content">
-                                    <div class="blog__meta">
-                                        <span class="blog__meta-tag blog__meta-tag--style1">Investment</span>
-                                    </div>
-                                    <h5 class="10"> <a href="blog-details.html">Options Trading business?</a>
-                                    </h5>
+                            <div class="blog__content mt-30">
+                                <h5 class="style2"> <a href="blog-details.html">Trading Wins and Losses in the
+                                        Market!</a>
+                                </h5>
 
-                                    <p class="mb-15">Security is our top priority, and we employ robust measures
-                                        to ensure the safety of
-                                        your funds.</p>
+                                <p class="mb-15">Trading Tales reminds us that profits and losses are part of the
+                                    investment game, but
+                                    it's the lessons learned that truly matter. Keep calm and trade on!</p>
 
-                                    <div class="blog__writer">
-                                        <div class="blog__writer-thumb">
-                                            <img src="{{ asset('assets/images/blog/author/3.png') }}" alt="writer">
-                                        </div>
-                                        <div class="blog__writer-designation">
-                                            <h6 class="mb-0">Hulya Aydin</h6>
-                                            <span>12/07/2023</span>
-                                        </div>
-                                    </div>
-                                </div>
+                                <a href="blog-details.html" class="text-btn text-btn--style2">Read more <i
+                                        class="fa-solid fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="text-center">
-            <a href="blogs.html" class="trk-btn trk-btn--border trk-btn--primary mt-40">View more </a>
         </div>
     </div>
     <div class="blog__shape">
