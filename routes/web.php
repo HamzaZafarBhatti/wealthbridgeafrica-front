@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\FrontendController;
+use App\Http\Controllers\LoginController;
+use App\Http\Controllers\RegisterController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -24,5 +26,3 @@ Route::get('/terms', [FrontendController::class, 'terms'])->name('terms');
 Route::get('/privacy-policy', [FrontendController::class, 'privacy'])->name('privacy');
 Route::get('/cookies-policy', [FrontendController::class, 'cookies'])->name('cookies');
 Route::get('/contact-us', [FrontendController::class, 'contactus'])->name('contactus');
-Route::get('/register', [FrontendController::class, 'signup'])->name('signup');
-Route::get('/login', [FrontendController::class, 'login'])->name('login');

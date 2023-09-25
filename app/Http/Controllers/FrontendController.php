@@ -47,12 +47,4 @@ class FrontendController extends Controller
     {
         return view('frontend.contactus');
     }
-    public function signup()
-    {
-        return view('frontend.signup');
-    }
-    public function login()
-    {
-        return view('frontend.login');
-    }
 }

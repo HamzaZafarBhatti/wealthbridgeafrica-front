@@ -43,12 +43,14 @@
                 <div class="header-action">
                     <div class="menu-area">
                         <div class="header-btn">
-                            <a href="{{ route('signup') }}" class="trk-btn trk-btn--border trk-btn--primary">
+                            <a href="{{ config('app.back_url') }}/register"
+                                class="trk-btn trk-btn--border trk-btn--primary">
                                 <span>Register</span>
                             </a>
                         </div>
                         <div class="header-btn">
-                            <a href="{{ route('login') }}" class="trk-btn trk-btn--border trk-btn--primary ms-3">
+                            <a href="{{ config('app.back_url') }}/login"
+                                class="trk-btn trk-btn--border trk-btn--primary ms-3">
                                 <span>Login</span>
                             </a>
                         </div>
