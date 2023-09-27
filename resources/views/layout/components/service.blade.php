@@ -1,8 +1,8 @@
 <!-- ===============>> Service section start here <<================= -->
 <section class="service padding-top padding-bottom bg-color-7">
     <div class="section-header section-header--max50">
-        <h2 class="mb-15 mt-minus-5"><span class="style2">services </span>We offer</h2>
-        <p>We offer the best services around - from installations to repairs, maintenance, and more!</p>
+        <h2 class="mb-15 mt-minus-5"><span class="style2">Information </span>regarding your CASH WIthdrawal</h2>
+        <p>WealthBridgeAfrica offers timely investment with awesome Cash Withdrawal Experience!</p>
     </div>
     <div class="container">
         <div class="service__wrapper">
@@ -17,11 +17,9 @@
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Strategy
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">$100,000 Withdrawal Limit per day
                                         Consulting</a> </h5>
-                                <p class="mb-0">A social assistant that's flexible can accommodate your schedule and
-                                    needs, making
-                                    life easier.</p>
+                                <p class="mb-0">Withdrawal is capped and limited to of $100,000k per day for each Investor.</p>
                             </div>
                         </div>
                     </div>
@@ -36,10 +34,9 @@
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html"> Financial
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">$25 Minimum Investment Deposit
                                         Advisory</a> </h5>
-                                <p class="mb-0">Modules transform smart trading by automating processes and improving
-                                    decision-making.
+                                <p class="mb-0">Deposits less than $25 on your Deposit Wallet would not automatically reflect instantly.
                                 </p>
                             </div>
                         </div>

@@ -5,7 +5,7 @@
             <div class="header-wrapper">
                 <div class="logo">
                     <a href="{{ route('index') }}">
-                        <img src="{{ asset('assets/images/logo/logo-dark.png') }}" alt="logo">
+                        <img src="{{ asset('assets/images/logo/wealth21263.png') }}" alt="logo">
                     </a>
                 </div>
                 @if (Route::is('index'))

@@ -13,17 +13,11 @@
             <div class="row flex-md-row-reverse gx-5">
                 <div class="col-lg-6 col-md-7">
                     <div class="banner__content" data-aos="fade-left" data-aos-duration="1000">
-                        <h1 class="banner__content-heading banner__content-heading--style2">smart solution
-                            for business</h1>
-                        <p class="banner__content-moto">Are you tired of your currency not going as far as it used to?
-                            Try
-                            tradingo and multiply
-                            your money! With their user-friendly interface and expert market analysis, you'll be earning
-                            more in no
-                            time.
+                        <h1 class="banner__content-heading banner__content-heading--style2">Creating Wealth Across Africa</h1>
+                        <p class="banner__content-moto">WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in cryptocurrency arbitrage opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.
                         </p>
                         <div class="btn-group">
-                            <a href="signin.html" class="trk-btn trk-btn--primary trk-btn--arrowplay">Get Started
+                            <a href="https://app.wealthbridgeafrica.com/register" class="trk-btn trk-btn--primary trk-btn--arrowplay">Get Started
                                 <span class="style2">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                                         viewBox="0 0 24 24" fill="none">

@@ -5,7 +5,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6">
                     <div class="section-header mb-50">
-                        <h2>Experienced trading <span class="style2">platform</span>
+                        <h2>Experience Automated <span class="style2">Fast-Frequency Investments You Can Trust</span>
                             to grow
                         </h2>
                     </div>
@@ -18,10 +18,8 @@
                                 </div>
                             </div>
                             <div class="about__content-details">
-                                <h5>Easy to lend</h5>
-                                <p class="mb-0">It's easy to lend a helping hand to those in need, especially when we
-                                    all stick
-                                    together.</p>
+                                <h5>Best Investment Arbitrage You Can Trust</h5>
+                                <p class="mb-0">We're the foremost best Investent Arbitrage you can trust. We mean it. Get started with us!</p>
                             </div>
                         </div>
                     </div>
@@ -34,10 +32,8 @@
                                 </div>
                             </div>
                             <div class="about__content-details">
-                                <h5>Exchange money</h5>
-                                <p class="mb-0">If you need to exchange money, just hit up the currency exchange at
-                                    the airport.
-                                    Easy-peasy.</p>
+                                <h5>Trade Timeline</h5>
+                                <p class="mb-0">Our systematic trading algorithm at WealthBridgeAfrica runs 24/7 round the clock for consistent arbitrage profits.</p>
                             </div>
                         </div>
                     </div>
@@ -50,9 +46,8 @@
                                 </div>
                             </div>
                             <div class="about__content-details">
-                                <h5>Online wallet</h5>
-                                <p class="mb-0">When travelling abroad, don't forget to exchange money at the airport
-                                    or a local bank.
+                                <h5>Automatic Profits Compounding</h5>
+                                <p class="mb-0">All Profits earned through the arbitrage investment are automatically compounded with the principal to ensure that the cycle of trade is executed on a higher capital for you in more profits.
                                 </p>
                             </div>
                         </div>

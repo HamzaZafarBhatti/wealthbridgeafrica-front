@@ -1,6 +1,6 @@
 @extends('layout.app')
 
-@section('title', 'Home page')
+@section('title', 'Creating Wealth Across Africa')
 
 @section('content')
     @include('layout.components.about')
