@@ -38,6 +38,12 @@
                         <li>
                             <a href="{{ route('contactus') }}">Contact Us</a>
                         </li>
+                        <li class="d-md-none">
+                            <a href="{{ config('app.back_url') }}/register">Register</a>
+                        </li>
+                        <li class="d-md-none">
+                            <a href="{{ config('app.back_url') }}/login">Login</a>
+                        </li>
                     </ul>
                 </div>
                 <div class="header-action">
