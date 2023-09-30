@@ -17,11 +17,11 @@
                             <a href="{{ route('index') }}">Home</a>
                         </li>
                         <li>
-                            <a href="#0">About</a>
+                            <a href="#0">Company</a>
                             <ul class="submenu">
                                 <li><a href="{{ route('aboutus') }}">About Us</a></li>
                                 <li><a href="{{ route('howitworks') }}">How it Works</a></li>
-                                <li><a href="{{ route('investment') }}">Arbitrage Investment</a></li>
+                                <li><a href="{{ route('investment') }}">Arbitrage Trading Investment</a></li>
                                 <li><a href="{{ route('certification') }}">Certification</a></li>
                                 <li><a href="{{ route('paymentproofs') }}">Payment Proofs</a></li>
                             </ul>

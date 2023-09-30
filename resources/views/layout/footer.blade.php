@@ -7,10 +7,8 @@
                     <div class="col-lg-6 col-md-5">
                         <div class="footer__about">
                             <a href="index.html" class="footer__about-logo"><img
-                                    src="{{ asset('assets/images/logo/logo-dark.png') }}" alt="Logo"></a>
-                            <p class="footer__about-moto ">Welcome to our trading site! We offer the best, most
-                                affordable products
-                                and services around. Shop now and start finding great deals!</p>
+                                    src="https://wealthbridgeafrica.com/public/assets/images/logo/wealth21263.png" alt="Logo"></a>
+                            <p class="footer__about-moto ">Creating wealth across Africa with Arbitrage Trading - WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in Arbitrage Trading opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.</p>
                             <div>
                                 <ul class="social">
                                     <li class="social__item">
@@ -40,16 +38,16 @@
                     <div class="col-lg-2 col-md-2 col-sm-4 col-6">
                         <div class="footer__links">
                             <div class="footer__links-tittle">
-                                <h6>Quick links</h6>
+                                <h6>Company</h6>
                             </div>
                             <div class="footer__links-content">
                                 <ul class="footer__linklist">
-                                    <li class="footer__linklist-item"> <a href="about.html">About Us</a>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/about-us">About Us</a>
                                     </li>
-                                    <li class="footer__linklist-item"> <a href="team.html">Teams</a>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/how-it-works">How It Works</a>
                                     </li>
-                                    <li class="footer__linklist-item"> <a href="services.html">Services</a> </li>
-                                    <li class="footer__linklist-item"> <a href="#">Features</a>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/certification">Certification</a> </li>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/about-us">Company</a>
                                     </li>
                                 </ul>
                             </div>
@@ -59,16 +57,20 @@
                     <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                         <div class="footer__links">
                             <div class="footer__links-tittle">
-                                <h6>Support</h6>
+                                <h6>Arbitrage Trading Investment</h6>
                             </div>
                             <div class="footer__links-content">
                                 <ul class="footer__linklist">
-                                    <li class="footer__linklist-item"> <a href="#">Terms & Conditions</a>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/arbitrage-investment">Arbitrage Trading Investment</a>
                                     </li>
-                                    <li class="footer__linklist-item"> <a href="#">Privacy Policy</a>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/how-it-works">How It Works</a>
                                     </li>
-                                    <li class="footer__linklist-item"> <a href="#">FAQs</a></li>
-                                    <li class="footer__linklist-item"> <a href="#">Support Center</a> </li>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/payment-proofs">Payment Proofs</a>
+                                    </li>
+                                    <li class="footer__linklist-item"> <a href="https://app.wealthbridgeafrica.com/register">Register Account</a>
+                                    </li>
+                                    <li class="footer__linklist-item"> <a href="https://app.wealthbridgeafrica.com/login">Login</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -77,16 +79,16 @@
                     <div class="col-lg-2 col-md-2 col-sm-4">
                         <div class="footer__links">
                             <div class="footer__links-tittle">
-                                <h6>Company</h6>
+                                <h6>Support</h6>
                             </div>
                             <div class="footer__links-content">
                                 <ul class="footer__linklist">
-                                    <li class="footer__linklist-item"> <a href="#">Careers</a>
+                                    <li class="footer__linklist-item"> <a href="#">Contact Us</a>
                                     </li>
-                                    <li class="footer__linklist-item"> <a href="#">Updates</a>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/privacy-policy">Privacy Policy</a>
                                     </li>
-                                    <li class="footer__linklist-item"> <a href="#">Job</a> </li>
-                                    <li class="footer__linklist-item"> <a href="#">Announce</a>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/terms">Terms and Condition</a> </li>
+                                    <li class="footer__linklist-item"> <a href="https://wealthbridgeafrica.com/cookies-policy">Cookies Policy</a>
                                     </li>
                                 </ul>
                             </div>
@@ -98,8 +100,8 @@
             <div class="footer__bottom">
                 <div class="footer__end justify-content-center">
                     <div class="footer__end-copyright">
-                        <p class=" mb-0">© 2023 All Rights Reserved By <a
-                                href="https://themeforest.net/user/thetork/portfolio" target="_blank">Thetork</a> </p>
+                        <p class=" mb-0">© 2023 All Rights Reserved. WealthBridgeAfrica.com By <a
+                                href="https://wealthbridgeafrica.com/" target="_blank">Wealth Bridge Africa LLC</a> </p>
                     </div>
                 </div>
             </div>

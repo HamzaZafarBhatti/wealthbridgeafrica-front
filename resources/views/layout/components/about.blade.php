@@ -5,7 +5,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6">
                     <div class="section-header mb-50">
-                        <h2>Experience Automated <span class="style2">Fast-Frequency Investments You Can Trust</span>
+                        <h2>Experience Automated <span class="style2">High-Frequency Forex Trading Investments Profit You Can Bank On & Trust</span>
                             to grow
                         </h2>
                     </div>
@@ -19,7 +19,7 @@
                             </div>
                             <div class="about__content-details">
                                 <h5>Best Investment Arbitrage You Can Trust</h5>
-                                <p class="mb-0">We're the foremost best Investent Arbitrage you can trust. We mean it. Get started with us!</p>
+                                <p class="mb-0">We're the foremost best Forex Trading Investent you can trust. We mean it. Get started with us!</p>
                             </div>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             </div>
                             <div class="about__content-details">
                                 <h5>Trade Timeline</h5>
-                                <p class="mb-0">Our systematic trading algorithm at WealthBridgeAfrica runs 24/7 round the clock for consistent arbitrage profits.</p>
+                                <p class="mb-0">Our systematic Forex trading algorithm at WealthBridgeAfrica runs 24/7 round the clock for consistent Forex profits.</p>
                             </div>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                             </div>
                             <div class="about__content-details">
                                 <h5>Automatic Profits Compounding</h5>
-                                <p class="mb-0">All Profits earned through the arbitrage investment are automatically compounded with the principal to ensure that the cycle of trade is executed on a higher capital for you in more profits.
+                                <p class="mb-0">All Profits earned through the Forex Trading investments are automatically compounded with the principal to ensure that the cycle of trade is executed on a higher capital for you in more profits.
                                 </p>
                             </div>
                         </div>
@@ -59,6 +59,13 @@
                             <div class="about__thumb-image  text-center">
                                 <img src="{{ asset('assets/images/about/3.png') }}" alt="about-image" class="dark">
                             </div>
+                            <a href="https://app.wealthbridgeafrica.com/register" class="trk-btn trk-btn--primary trk-btn--arrowplay">Register Account
+                                <span class="style2">
+                                </span> </a>
+                                <a href="https://app.wealthbridgeafrica.com/login" class="trk-btn trk-btn--primary trk-btn--arrowplay">Login
+                                <span class="style2">
+                                    
+                                </span> </a>
                         </div>
                     </div>
                 </div>
@@ -71,3 +78,4 @@
     </div>
 </section>
 <!-- ===============>> About section start here <<================= -->
+

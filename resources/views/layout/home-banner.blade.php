@@ -13,8 +13,8 @@
             <div class="row flex-md-row-reverse gx-5">
                 <div class="col-lg-6 col-md-7">
                     <div class="banner__content" data-aos="fade-left" data-aos-duration="1000">
-                        <h1 class="banner__content-heading banner__content-heading--style2">Creating Wealth Across Africa</h1>
-                        <p class="banner__content-moto">WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in cryptocurrency arbitrage opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.
+                        <h1 class="banner__content-heading banner__content-heading--style2">Creating Wealth in Africa with Arbitrage Investment</h1>
+                        <p class="banner__content-moto">WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in Arbitrage Trading opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.
                         </p>
                         <div class="btn-group">
                             <a href="https://app.wealthbridgeafrica.com/register" class="trk-btn trk-btn--primary trk-btn--arrowplay">Get Started

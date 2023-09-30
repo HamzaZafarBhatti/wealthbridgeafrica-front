@@ -1,7 +1,7 @@
 <!-- ===============>> Service section start here <<================= -->
 <section class="service padding-top padding-bottom bg-color-7">
     <div class="section-header section-header--max50">
-        <h2 class="mb-15 mt-minus-5"><span class="style2">Information </span>regarding your CASH WIthdrawal</h2>
+        <h2 class="mb-15 mt-minus-5"><span class="style2">Information </span>regarding your Arbitrage Investment</h2>
         <p>WealthBridgeAfrica offers timely investment with awesome Cash Withdrawal Experience!</p>
     </div>
     <div class="container">
@@ -12,14 +12,13 @@
                         <div class="service__item-inner text-center">
                             <div class="service__thumb mb-30">
                                 <div class="service__thumb-inner">
-                                    <img class="dark" src="{{ asset('assets/images/service/1.png') }}"
+                                    <img class="dark" src="https://wealthbridgeafrica.com/public/assets/images/icon/upload/1.png"
                                         alt="service-icon">
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">$100,000 Withdrawal Limit per day
-                                        Consulting</a> </h5>
-                                <p class="mb-0">Withdrawal is capped and limited to of $100,000k per day for each Investor.</p>
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">5% Referral Commission - Affiliate Program </a> </h5>
+                                <p class="mb-0">Earn 5% for every time your downline makes a deposit  in our Affiliate Program. Unlimited Earnings.</p>
                             </div>
                         </div>
                     </div>
@@ -29,14 +28,14 @@
                         <div class="service__item-inner text-center">
                             <div class="service__thumb mb-30">
                                 <div class="service__thumb-inner">
-                                    <img class="dark" src="{{ asset('assets/images/service/2.png') }}"
+                                    <img class="dark" src="https://wealthbridgeafrica.com/public/assets/images/icon/upload/2.png"
                                         alt="service-icon">
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">$25 Minimum Investment Deposit
-                                        Advisory</a> </h5>
-                                <p class="mb-0">Deposits less than $25 on your Deposit Wallet would not automatically reflect instantly.
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">100% Powerful Arbitrage Trading Algorithm Robot
+                                        </a> </h5>
+                                <p class="mb-0">Experience 100% Powerful Arbitrage Trading Algorithm Robot for all your Investments.
                                 </p>
                             </div>
                         </div>
@@ -47,16 +46,14 @@
                         <div class="service__item-inner text-center">
                             <div class="service__thumb mb-30">
                                 <div class="service__thumb-inner">
-                                    <img class="dark" src="{{ asset('assets/images/service/3.png') }}"
+                                    <img class="dark" src="https://wealthbridgeafrica.com/public/assets/images/icon/upload/3.png"
                                         alt="service-icon">
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Management</a>
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Powerful Forex Trading Robot</a>
                                 </h5>
-                                <p class="mb-0">There, it's me, your friendly neighborhood reporter's news analyst
-                                    processes and
-                                    improving</p>
+                                <p class="mb-0">WealthBridgeAfrica possess powerful ROBOT for Forex Trading for optimum profits. Rest assured Profits are 100% guaranteed always.</p>
                             </div>
                         </div>
                     </div>
@@ -66,17 +63,14 @@
                         <div class="service__item-inner text-center">
                             <div class="service__thumb mb-30">
                                 <div class="service__thumb-inner">
-                                    <img class="dark" src="{{ asset('assets/images/service/4.png') }}"
+                                    <img class="dark" src="https://wealthbridgeafrica.com/public/assets/images/icon/upload/4.png"
                                         alt="service-icon">
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Supply
-                                        Optimization </a>
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Withdraw Cash Anytime</a>
                                 </h5>
-                                <p class="mb-0">Hey, have you checked out that new cryptocurrency platform? It's
-                                    pretty cool and easy
-                                    to use!</p>
+                                <p class="mb-0">Withdraw CASH at anytime once your withdrawal is completed. This ensures that you get your WITHDRAWAL at anytime deem fit for you. No hassles.</p>
                             </div>
                         </div>
                     </div>
@@ -86,16 +80,13 @@
                         <div class="service__item-inner text-center">
                             <div class="service__thumb mb-30">
                                 <div class="service__thumb-inner">
-                                    <img class="dark" src="{{ asset('assets/images/service/5.png') }}"
+                                    <img class="dark" src="https://wealthbridgeafrica.com/public/assets/images/icon/upload/5.png"
                                         alt="service-icon">
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">HR
-                                        consulting</a> </h5>
-                                <p class="mb-0">Hey guys, just a quick update on exchange orders. There have been some
-                                    changes
-                                    currency!</p>
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Powerful API Software for Withdrawals</a> </h5>
+                                <p class="mb-0">WealthBridgeAfrica uses powerful algorithm API to deliver and process over 5million withdrawals per minute!</p>
                             </div>
                         </div>
                     </div>
@@ -105,17 +96,14 @@
                         <div class="service__item-inner text-center">
                             <div class="service__thumb mb-30">
                                 <div class="service__thumb-inner">
-                                    <img class="dark" src="{{ asset('assets/images/service/6.png') }}"
+                                    <img class="dark" src="https://wealthbridgeafrica.com/public/assets/images/icon/upload/6.png"
                                         alt="service-icon">
                                 </div>
                             </div>
                             <div class="service__content">
-                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Marketing
-                                        consulting</a>
+                                <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Trusted     Forex Trading Investment Platform</a>
                                 </h5>
-                                <p class="mb-0">Hey! Just wanted to let you know that the price notification module
-                                    processes is now
-                                    live!</p>
+                                <p class="mb-0">WealthBridgeAfrica delivers high value services for all your investment arbitrage investments with our powerful software at scale for profits making. Trust us to deliver.</p>
                             </div>
                         </div>
                     </div>

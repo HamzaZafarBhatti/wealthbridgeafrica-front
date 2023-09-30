@@ -34,7 +34,7 @@
 <body>
     <!-- ===============>> Preloader start here <<================= -->
     <div class="preloader">
-        <img src="{{ asset('assets/images/logo/preloader.png') }}" alt="preloader icon">
+        <img src="https://wealthbridgeafrica.com/public/assets/images/icon/upload/logo2-wealthbridge.png" alt="preloader icon">
     </div>
     <!-- ===============>> Preloader end here <<================= -->
 

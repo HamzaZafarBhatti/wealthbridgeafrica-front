@@ -11,7 +11,7 @@
                     <div class="col-md-5">
                         <div class="contact__info" data-aos="fade-right" data-aos-duration="1000">
                             <div class="contact__social">
-                                <h3>let’s <span>get in touch</span>
+                                <h3>Get in <span>touch</span>
                                     with us</h3>
                                 <ul class="social">
                                     <li class="social__item">
@@ -40,15 +40,15 @@
                                 <div class="contact__item" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="contact__item-inner">
                                         <div class="contact__item-thumb">
-                                            <span><img src="{{ asset('assets/images/contact/1.png') }}" alt="contact-icon"
+                                            <span><img src="{{ asset('assets/images/contact/images/1.png') }}" alt="contact-icon"
                                                     class="dark"></span>
                                         </div>
                                         <div class="contact__item-content">
                                             <p>
-                                                0917749254
+                                                +17192841128
                                             </p>
                                             <p>
-                                                0983888611
+                                                +17205042557
                                             </p>
                                         </div>
                                     </div>
@@ -56,15 +56,12 @@
                                 <div class="contact__item" data-aos="fade-right" data-aos-duration="1100">
                                     <div class="contact__item-inner">
                                         <div class="contact__item-thumb">
-                                            <span><img src="{{ asset('assets/images/contact/2.png') }}" alt="contact-icon"
+                                            <span><img src="{{ asset('assets/images/contact/images/2.png') }}" alt="contact-icon"
                                                     class="dark"></span>
                                         </div>
                                         <div class="contact__item-content">
                                             <p>
-                                                Bitrader@gmail.com
-                                            </p>
-                                            <p>
-                                                hello@gmail.com
+                                                support@wealthbridgeafrica.com
                                             </p>
                                         </div>
                                     </div>
@@ -72,15 +69,15 @@
                                 <div class="contact__item" data-aos="fade-right" data-aos-duration="1200">
                                     <div class="contact__item-inner">
                                         <div class="contact__item-thumb">
-                                            <span><img src="{{ asset('assets/images/contact/3.png') }}" alt="contact-icon"
+                                            <span><img src="{{ asset('assets/images/contact/images/3.png') }}" alt="contact-icon"
                                                     class="dark"></span>
                                         </div>
                                         <div class="contact__item-content">
                                             <p>
-                                                88 Sheridan Street
+                                                 630 S Dayton St Denver,
                                             </p>
                                             <p>
-                                                534 Victoria Trail
+                                                Colorado(CO), 80247 United States.
                                             </p>
                                         </div>
                                     </div>
