@@ -22,8 +22,7 @@
                                 <li><a href="{{ route('aboutus') }}">About Us</a></li>
                                 <li><a href="{{ route('howitworks') }}">How it Works</a></li>
                                 <li><a href="{{ route('investment') }}">Arbitrage Trading Investment</a></li>
-                                <li><a href="{{ route('certification') }}">Certification</a></li>
-                                <li><a href="{{ route('paymentproofs') }}">Payment Proofs</a></li>
+                                <li><a href="{{ route('certification') }}">Certification & Insurance Cover</a></li>
                             </ul>
                         </li>
                         <li>

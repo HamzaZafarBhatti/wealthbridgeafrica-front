@@ -23,7 +23,7 @@
                                         data-bs-parent="#faqAccordion1">
                                         <div class="accordion__body">
                                             <p class="mb-0">
-                                                Creating wealth across Africa with Arbitrage Trading - WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in Arbitrage Trading opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.
+                                                WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in Arbitrage Trading opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.
                                             </p>
                                         </div>
                                     </div>
@@ -128,7 +128,7 @@
                                     <div id="faqBody6" class="accordion-collapse collapse" aria-labelledby="faq6"
                                         data-bs-parent="#faqAccordion2">
                                         <div class="accordion__body">
-                                            <p class="mb-0">You get 30% profit margin Investment arbitrage after 30days for the BASIC PLAN and you get 40% profit margin Investment arbitrage after 30days for the PREMIUM PLAN.</p>
+                                            <p class="mb-0">You get 30% profit margin Investment arbitrage after 30days for the BASIC PLAN and you get 40% profit margin Investment arbitrage after 30days for the WEALTH PLAN.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -170,6 +170,25 @@
                                 </div>
                             </div>
                             <div class="col-12">
+                                <div class="accordion__item border-0">
+                                    <div class="accordion__header" id="faq9">
+                                        <button class="accordion__button" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#faqBody9" aria-expanded="false"
+                                            aria-controls="faqBody9">
+                                            <span class="accordion__button-content">Wil I loose my DEPOSIT? Are there any risk? Will I loose my trade of funds or Investment on Wealth Bridge Africa LLC?</span>
+                                            <span class="accordion__button-plusicon"></span>
+                                        </button>
+                                    </div>
+                                    <div id="faqBody9" class="accordion-collapse collapse show"
+                                        aria-labelledby="faq9" data-bs-parent="#faqAccordion2">
+                                        <div class="accordion__body">
+                                            <p class="mb-0">Funds and Deposits are Insured against Losses and Loss of Trades - CERTIFICATE OF INSURANCE & POLICY BOOKLET Civil Liability Insurance FOR WEALTH BRIDGE AFRICA LLC - Certificate Number: CCFX7629185
+You do not have to fret against any form of losses or loss of trades on Wealth Bridge Africa. Your FUNDINGS and DEPOSITS is insured and covered by CERTIFICATE OF INSURANCE & POLICY BOOKLET Civil Liability Insurance FOR WEALTH BRIDGE AFRICA LLC - Certificate Number: CCFX7629185-EU - Date of ISSUE - APRIL /7/2023 -WEALTH BRIDGE AFRICA LLC. Go here https://wealthbridgeafrica.com/certification for details.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="col-12">
                                 <div class="accordion__item border-0">
                                     <div class="accordion__header" id="faq9">
                                         <button class="accordion__button" type="button" data-bs-toggle="collapse"

@@ -68,6 +68,8 @@
     <script src="{{ asset('assets/js/fslightbox.js') }}"></script>
     <script src="{{ asset('assets/js/purecounter_vanilla.js') }}"></script>
     <script src="{{ asset('assets/js/custom.js') }}"></script>
+    <!--Add the following script at the bottom of the web page (before </body></html>)-->
+<script src="//code.tidio.co/cesuuzx6lqmvxfxa0xkpqhw9lekg4e5c.js" async></script>
 </body>
 
 </html>

@@ -8,30 +8,14 @@
                         <div class="footer__about">
                             <a href="index.html" class="footer__about-logo"><img
                                     src="https://wealthbridgeafrica.com/public/assets/images/logo/wealth21263.png" alt="Logo"></a>
-                            <p class="footer__about-moto ">Creating wealth across Africa with Arbitrage Trading - WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in Arbitrage Trading opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.</p>
+                            <p class="footer__about-moto ">WealthBridgeAfrica is the very best premium service automated 'WealthCreation' platform to invest in Arbitrage Trading opportunities. No trading skills are required. 100% risk-free, safe, faster, and better than others with peace of mind.</p>
                             <div>
                                 <ul class="social">
                                     <li class="social__item">
-                                        <a href="#" class="social__link social__link--style5 active"><i
-                                                class="fab fa-facebook-f"></i></a>
+                                        <a href="https://t.me/+zPVLCK8i9bQxY2Y0" class="social__link social__link--style5 "><i
+                                                class="fab fa-telegram"></i></a>
                                     </li>
-                                    <li class="social__item">
-                                        <a href="#" class="social__link social__link--style5 "><i
-                                                class="fab fa-instagram"></i></a>
-                                    </li>
-                                    <li class="social__item">
-                                        <a href="#" class="social__link social__link--style5"><i
-                                                class="fa-brands fa-linkedin-in"></i></a>
-                                    </li>
-                                    <li class="social__item">
-                                        <a href="#" class="social__link social__link--style5"><i
-                                                class="fab fa-youtube"></i></a>
-                                    </li>
-                                    <li class="social__item">
-                                        <a href="#" class="social__link social__link--style5 "><i
-                                                class="fab fa-twitter"></i></a>
-                                    </li>
-                                </ul>
+                                   </ul>
                             </div>
                         </div>
                     </div>

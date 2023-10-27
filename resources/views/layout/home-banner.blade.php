@@ -29,7 +29,7 @@
                                             stroke-width="1.5" />
                                     </svg>
                                 </span> </a>
-                            <a href="https://www.youtube.com/watch?v=MHhIzIgFgJo&ab_channel=NoCopyrightFootages"
+                            <a href="https://www.youtube.com/watch?v=dCBGy-qQ15M"
                                 class="trk-btn trk-btn--outline3" data-fslightbox>
                                 <span class="style1"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                         height="24" viewBox="0 0 24 24" fill="none">
@@ -65,4 +65,29 @@
 
 
 </section>
+<p>&nbsp;</p>
+<h2 style="text-align: center;"><span style="color: #ffffff;">As Seen On Top Brands...</span></h2>
+<table style="width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto; height: 18px;" border="0">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 20%; height: 18px;">
+<p style="text-align: center;"><a href="https://punchng.com/wealthbridge-africa-creating-wealth-across-africa-with-arbitrage-trading-investment-30-40-rio-monthly/"><span style="color: #ffffff;">Punch Newspaper</span></a></p>
+<p><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://punchng.com/wealthbridge-africa-creating-wealth-across-africa-with-arbitrage-trading-investment-30-40-rio-monthly/" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://wealthbridgeafrica.com/public/assets/images/logo/Untitled6.jpeg" alt="" width="84" height="30" /></span></p>
+</td>
+<td style="width: 20%; height: 18px;">
+<p style="text-align: center;"><span style="color: #ffffff;">Naijaloaded</span></p>
+<p style="text-align: center;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://wealthbridgeafrica.com/" target="_blank"><img src="https://wealthbridgeafrica.com/public/assets/images/logo/naijaloaded-removebg-preview.png" alt="" width="135" height="48" /></a></span></p>
+</td>
+<td style="width: 20%; height: 18px;">
+<p style="text-align: center;"><span style="color: #ffffff;">The Nation Newspaper</span></p>
+<p style="text-align: center;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://thenationonlineng.net/wealthbridge-africa-creating-wealth-across-africa-with-arbitrage-investment-get-30-40-rio-monthly/" target="_blank"><img src="https://wealthbridgeafrica.com/public/assets/images/logo/THE-NATION-LOGO2.jpg" alt="" width="105" height="33" /></a></span></p>
+</td>
+<td style="width: 20%; height: 18px;">
+<p style="text-align: center;"><span style="color: #ffffff;">The Guardian</span></p>
+<p style="text-align: center;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://wealthbridgeafrica.com/" target="_blank"><img src="https://wealthbridgeafrica.com/public/assets/images/logo/Guardian_logo.png" alt="" width="188" height="30" /></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <!-- ===============>> Banner section end here <<================= -->

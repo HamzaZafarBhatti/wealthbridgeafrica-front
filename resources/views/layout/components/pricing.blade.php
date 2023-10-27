@@ -15,7 +15,7 @@
                                 <!-- pricing top part -->
                                 <div class="pricing__item-top">
                                     <h6 class="mb-15">BASIC PLAN</h6>
-                                    <h3 class="mb-25">$25<span>Minimum</span> </h3>
+                                    <h3 class="mb-25">$50<span>Minimum</span> </h3>
                                 </div>
 
                                 <!-- pricing middle part -->
@@ -24,11 +24,11 @@
                                         <li class="pricing__list-item"><span><img
                                                     src="{{ asset('assets/images/icon/2.png') }}" alt="check"
                                                     class="dark"></span>
-                                            100% Powerful Arbitrage Trading Algorithm Robot</li>
+                                            Powerful Arbitrage Trading Algorithm Robot</li>
                                         <li class="pricing__list-item"><span><img
                                                     src="{{ asset('assets/images/icon/2.png') }}" alt="check"
                                                     class="dark"></span>
-                                            Arbitrage Trading runs and scales 100% from our highly secured inHouse trading platform</li>
+                                            30% Arbitrage Trading Profit Monthly and highly secured inHouse trading platform</li>
                                         <li class="pricing__list-item"><span><img
                                                     src="{{ asset('assets/images/icon/2.png') }}" alt="check"
                                                     class="dark"></span>
@@ -68,8 +68,8 @@
 
                                 <!-- pricing top part -->
                                 <div class="pricing__item-top">
-                                    <h6 class="mb-15">PREMIUM PLAN</h6>
-                                    <h3 class="mb-25">$5000<span>Minimum</span> </h3>
+                                    <h6 class="mb-15">WEALTH PLAN</h6>
+                                    <h3 class="mb-25">$25000<span>Minimum</span> </h3>
                                 </div>
 
                                 <!-- pricing middle part -->
@@ -78,15 +78,15 @@
                                         <li class="pricing__list-item"><span><img
                                                     src="{{ asset('assets/images/icon/2.png') }}" alt="check"
                                                     class="dark"></span>
-                                             100% Powerful Arbitrage Trading Algorithm Robots</li>
+                                             Powerful Arbitrage Trading Algorithm Robots</li>
                                              <li class="pricing__list-item"><span><img
                                                     src="{{ asset('assets/images/icon/2.png') }}" alt="check"
                                                     class="dark"></span>
-                                           Extra High Profit Margin Built to scale Arbitrage Trading</li>
+                                           40% Arbitrage Trading Profit Monthly and highly secured inHouse trading platform</li>
                                         <li class="pricing__list-item"><span><img
                                                     src="{{ asset('assets/images/icon/2.png') }}" alt="check"
                                                     class="dark"></span>
-                                             Arbitrage Trading runs and scales 100% from our highly secured inHouse trading platform</li>
+                                             Extra High Profit Margin Built to scale Arbitrage Trading</li>
                                         <li class="pricing__list-item"><span><img
                                                     src="{{ asset('assets/images/icon/2.png') }}" alt="check"
                                                     class="dark"></span>
