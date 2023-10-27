@@ -14,7 +14,7 @@ class Controller extends BaseController
 
     public function __construct()
     {
-        $set = cache()->rememberForever('set', function () {
+        $set = cache()->remember('set', 3600, function () {
             return DB::table('settings')->first();
         });
         View::share('set', $set);
